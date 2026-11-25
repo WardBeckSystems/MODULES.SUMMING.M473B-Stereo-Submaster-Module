@@ -1,0 +1,150 @@
+{
+ "code": "M473B",
+ "connector": "RTO-144",
+ "type": "M473B - Stereo Submaster",
+ "series": null,
+ "contacts": "22 contacts, 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "12",
+   "signal": "LEFT",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+   "page": 2
+  },
+  {
+   "pin": "18",
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+   "page": 2
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "SIGNAL GROUND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+   "page": 2
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+   "page": 2
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "24V Jumper",
+   "designation": "JMP.Y.21",
+   "from": "P2-Y",
+   "to": "P2-21"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.20.18",
+   "from": "P2-20",
+   "to": "P2-18"
+  },
+  {
+   "function": "Insert +",
+   "designation": "JMP.22.21",
+   "from": "P2-22",
+   "to": "P2-21"
+  },
+  {
+   "function": "Insert -",
+   "designation": "JMP.Z.Y",
+   "from": "P2-Z",
+   "to": "P2-Y"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.1,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M473B/M473B.rto144.json",
+  "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf"
+ ]
+}
