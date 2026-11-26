@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/435808b8246e69c7-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 359, "straight": {"n": 6021, "mm": 8780.2}, "curved": {"n": 1096, "mm": 1742.6}},
+  "text": {"rings": 74, "straight": {"n": 786, "mm": 967.9}, "curved": {"n": 193, "mm": 318.4}}
+ },
+ "circles": [
+  {"c": [56.4, 109.0], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [6.7, 339.3], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [204.5, 370.2], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [141.2, 140.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [32.1, 188.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [260.0, 359.2], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [179.4, 383.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [43.7, 260.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [6.9, 259.9], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [294.7, 320.6, 304.2, 326.4], "text": "TO"},
+   {"mm": [285.0, 312.6, 311.5, 319.8], "text": "FADER"},
+   {"mm": [288.0, 305.1, 310.9, 310.8], "text": "OdBm"},
+   {"mm": [4.5, 204.0, 67.6, 212.2], "text": "sue ON TALLY"},
+   {"mm": [274.0, 205.3, 298.2, 213.0], "text": "ue ON"},
+   {"mm": [268.8, 196.7, 292.1, 202.9], "text": "TA LLY"},
+   {"mm": [5.0, 104.5, 75.3, 110.5], "text": "CHASSIS ROUND"},
+   {"mm": [6.3, 63.5, 69.1, 69.5], "text": "SIGNAL GROUN"},
+   {"mm": [278.7, 61.3, 310.9, 68.8], "text": "NOTES:"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [83.3, 55.7, 91.3, 62.7], "text": "2.1"},
+   {"mm": [273.3, 47.7, 335.7, 59.2], "text": "BS RESI51'"},
+   {"mm": [288.0, 49.9, 302.9, 56.1], "text": "ALL"},
+   {"mm": [288.0, 38.0, 335.9, 44.0], "text": "LAST COMFli"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [287.4, 29.4, 329.0, 36.1], "text": "eRe) 051"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"},
+   {"mm": [285.0, 17.9, 328.2, 24.2], "text": ".USE. PCB"}
+  ]
+ },
+ "dots": [
+  {"c": [164.5, 345.4], "r": 1.5, "lines": 0},
+  {"c": [180.3, 296.2], "r": 1.5, "lines": 0},
+  {"c": [180.5, 286.4], "r": 1.5, "lines": 0},
+  {"c": [164.5, 286.3], "r": 1.5, "lines": 0},
+  {"c": [164.4, 266.2], "r": 1.4, "lines": 0},
+  {"c": [180.5, 266.2], "r": 1.5, "lines": 0},
+  {"c": [164.7, 206.5], "r": 1.6, "lines": 0},
+  {"c": [11.1, 188.3], "r": 1.5, "lines": 0},
+  {"c": [164.7, 186.3], "r": 1.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 359 rings, 6,021 straight (8,780 mm) / 1,096 curved (1,743 mm); text 74 rings, 786 straight (968 mm) / 193 curved (318 mm)",
+  "- **Circles and arcs:** 9 circles, 0 arcs; largest r 2.6 @ (56.4, 109.0), r 2.5 @ (6.7, 339.3), r 2.4 @ (204.5, 370.2), r 2.4 @ (141.2, 140.9)",
+  "- **Dots (junctions):** 9",
+  "- **Words (OCR):** 28 in 18 lines: TO · FADER · OdBm · sue ON TALLY · ue ON · TA LLY · CHASSIS ROUND · SIGNAL GROUN · NOTES: · ps · 2.1 · BS RESI51'"
+ ]
+}

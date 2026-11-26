@@ -1,0 +1,103 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/eb917ad50614026c-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.2, 335.5, 431.9],
+ "outlines": {
+  "line": {"rings": 371, "straight": {"n": 7810, "mm": 8064.2}, "curved": {"n": 1410, "mm": 1889.6}},
+  "text": {"rings": 285, "straight": {"n": 2416, "mm": 2227.2}, "curved": {"n": 748, "mm": 979.2}}
+ },
+ "circles": [
+  {"c": [205.3, 129.4], "r": 14.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [205.1, 129.6], "r": 10.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [205.1, 129.7], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [177.6, 128.5], "r": 7.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 3.1},
+  {"c": [192.6, 90.5], "r": 4.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [312.6, 175.6], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [201.7, 275.9, 211.2, 298.8], "w": 9.6, "h": 22.9, "from": "ring"},
+  {
+   "mm": [22.7, 166.5, 138.4, 182.7],
+   "w": 115.7,
+   "h": 16.2,
+   "from": "ring",
+   "words": ["BAL ANCED", "Inis", "switch", "swicn", "With", "BALANCE", "R6", "depressed", "R3", "ine", "control", "enabled"]
+  }
+ ],
+ "text": {
+  "words": 70,
+  "lines": [
+   {"mm": [169.7, 351.7, 182.0, 357.0], "text": "WBS"},
+   {"mm": [203.2, 351.7, 218.3, 357.0], "text": "M4738"},
+   {"mm": [279.2, 318.7, 328.2, 323.5], "text": "ASSIGNMENT switch"},
+   {"mm": [255.4, 313.3, 333.8, 318.2], "text": "depressede tne oulpul Signal"},
+   {"mm": [254.8, 308.5, 302.3, 312.8], "text": "Summing resistors"},
+   {"mm": [289.3, 304.2, 296.9, 309.0], "text": "M2"},
+   {"mm": [314.8, 309.0, 322.8, 312.8], "text": "tne"},
+   {"mm": [326.0, 308.5, 335.5, 312.8], "text": "exte"},
+   {"mm": [254.8, 303.6, 287.1, 308.6], "text": "summing 0us"},
+   {"mm": [254.3, 290.2, 328.2, 295.9], "text": "MASTER ASSIGNMENT switch"},
+   {"mm": [254.8, 285.2, 314.1, 290.2], "text": "depressed; The outpul"},
+   {"mm": [317.4, 284.1, 333.8, 290.6], "text": "signal"},
+   {"mm": [254.8, 280.5, 302.3, 284.8], "text": "sumning resistors"},
+   {"mm": [314.1, 280.5, 335.5, 284.8], "text": "the exte"},
+   {"mm": [254.5, 275.5, 287.1, 280.8], "text": "Summing bus"},
+   {"mm": [290.0, 276.1, 296.4, 280.5], "text": "Mi"},
+   {"mm": [195.2, 187.4, 216.8, 193.9], "text": "L~0_R"},
+   {"mm": [24.0, 177.3, 69.3, 182.8], "text": "BAL ANCED swicn"},
+   {"mm": [93.1, 177.3, 104.5, 181.1], "text": "With"},
+   {"mm": [108.2, 176.8, 137.7, 181.1], "text": "Inis switch"},
+   {"mm": [24.2, 171.9, 63.9, 176.9], "text": "depressed ine"},
+   {"mm": [67.1, 171.9, 110.3, 177.1], "text": "BALANCE control"},
+   {"mm": [112.9, 171.9, 119.8, 176.7], "text": "R3"},
+   {"mm": [131.3, 171.9, 138.2, 177.1], "text": "R6"},
+   {"mm": [253.3, 172.9, 296.2, 178.9], "text": "BALANCE controt"},
+   {"mm": [316.9, 173.6, 325.6, 177.9], "text": "R6:"},
+   {"mm": [32.2, 167.1, 52.0, 171.9], "text": "enabled"},
+   {"mm": [272.7, 169.7, 282.4, 173.5], "text": "evei"},
+   {"mm": [316.3, 169.7, 325.6, 173.5], "text": "ana"},
+   {"mm": [253.7, 164.3, 272.5, 168.6], "text": "stgnas"},
+   {"mm": [198.4, 149.0, 212.4, 156.6], "text": "BAL"},
+   {"mm": [23.5, 131.5, 72.5, 136.3], "text": "SOL0 switch Sw5:"},
+   {"mm": [254.3, 131.9, 319.7, 137.2], "text": "SUBMASTER ON switch"},
+   {"mm": [326.7, 131.9, 335.3, 136.7], "text": "SwI"},
+   {"mm": [81.8, 130.4, 137.7, 135.3], "text": "Wnen depressed, the"},
+   {"mm": [300.7, 127.2, 327.7, 132.4], "text": "SUBMASTER"},
+   {"mm": [24.0, 126.1, 48.4, 130.4], "text": "pcst-Tade"},
+   {"mm": [53.3, 125.2, 69.7, 130.5], "text": "signa]"},
+   {"mm": [86.6, 126.1, 95.2, 130.4], "text": "Ted"},
+   {"mm": [111.8, 126.1, 119.8, 129.9], "text": "tne"},
+   {"mm": [124.8, 126.1, 137.7, 131.4], "text": "SOLO"},
+   {"mm": [254.8, 126.5, 280.7, 130.8], "text": "depressed,"},
+   {"mm": [284.6, 127.2, 297.9, 131.0], "text": "Teeds"},
+   {"mm": [24.0, 120.7, 40.8, 125.5], "text": "oulput"},
+   {"mm": [254.8, 121.8, 275.7, 126.1], "text": "ouipuls."},
+   {"mm": [193.7, 103.6, 218.5, 111.8], "text": "SUB ON"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 371 rings, 7,810 straight (8,064 mm) / 1,410 curved (1,890 mm); text 285 rings, 2,416 straight (2,227 mm) / 748 curved (979 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 14.0 @ (205.3, 129.4), r 10.8 @ (205.1, 129.6), r 7.7 @ (205.1, 129.7), r 7.6 @ (177.6, 128.5)",
+  "- **Closed boxes:** 2; named: BAL ANCED Inis switch swicn With BALANCE",
+  "- **Words (OCR):** 70 in 46 lines: WBS · M4738 · ASSIGNMENT switch · depressede tne oulpul Signal · Summing resistors · M2 · tne · exte · summing 0us · MASTER ASSIGNMENT switch · depressed; The outpul · signal"
+ ]
+}

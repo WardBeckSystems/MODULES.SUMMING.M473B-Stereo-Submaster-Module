@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/435808b8246e69c7-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.3, 335.5, 422.7],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 1379, "mm": 2885.2}, "curved": {"n": 142, "mm": 220.1}},
+  "text": {"rings": 163, "straight": {"n": 1766, "mm": 2460.0}, "curved": {"n": 380, "mm": 645.6}},
+  "tb": {"rings": 16, "straight": {"n": 90, "mm": 129.6}, "curved": {"n": 31, "mm": 51.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [43.2, 398.3, 286.5, 417.3], "text": "(~El5) WARD-BECK SYSTEMS LTD."},
+   {"mm": [232.7, 404.2, 282.6, 408.2], "text": "ONTARIO M1H 2X4"},
+   {"mm": [119.0, 404.2, 231.0, 408.0], "text": "641 F>t=IOGRESS AVENUE. SCAF'lBOFlClUGH."},
+   {"mm": [119.2, 398.6, 171.0, 402.4], "text": "TELEX, 065 -25399"},
+   {"mm": [208.1, 398.6, 282.6, 402.4], "text": "TELEFOHONE, 416143S-6550"},
+   {"mm": [144.9, 214.6, 194.7, 227.3], "text": "M4738"},
+   {"mm": [125.9, 196.9, 157.6, 203.6], "text": "STEREO"},
+   {"mm": [161.5, 196.5, 210.7, 204.4], "text": "SUB MASTER"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [217.2, 47.7, 295.1, 59.3], "text": "MANUAL ISSUE BS"},
+   {"mm": [217.4, 39.5, 257.8, 46.5], "text": "OCTOBER 1984"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [112.8, 45.2, 265.8, 425.6],
+  "from": "title-block words (training set)",
+  "text": [
+   "(~El5) WARD-BECK SYSTEMS LTD.",
+   "ONTARIO M1H 2X4",
+   "641 F>t=IOGRESS AVENUE. SCAF'lBOFlClUGH.",
+   "TELEX, 065 -25399",
+   "TELEFOHONE, 416143S-6550",
+   "M4738",
+   "STEREO",
+   "SUB MASTER",
+   "MANUAL ISSUE BS"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 12–423 mm up",
+  "- **Outlines:** line 39 rings, 1,379 straight (2,885 mm) / 142 curved (220 mm); text 163 rings, 1,766 straight (2,460 mm) / 380 curved (646 mm); tb 16 rings, 90 straight (130 mm) / 31 curved (51.0 mm)",
+  "- **Words (OCR):** 28 in 13 lines: (~El5) WARD-BECK SYSTEMS LTD. · ONTARIO M1H 2X4 · 641 F>t=IOGRESS AVENUE. SCAF'lBOFlClUGH. · TELEX, 065 -25399 · TELEFOHONE, 416143S-6550 · M4738 · STEREO · SUB MASTER · ps · MANUAL ISSUE BS · OCTOBER 1984 · tp",
+  "- **Title block:** (113, 45)–(266, 426) mm: (~El5) WARD-BECK SYSTEMS LTD. · ONTARIO M1H 2X4 · 641 F>t=IOGRESS AVENUE. SCAF'lBOFlClUGH. · TELEX, 065 -25399 · TELEFOHONE, 416143S-6550 · M4738 · STEREO · SUB MASTER · MANUAL ISSUE BS"
+ ]
+}

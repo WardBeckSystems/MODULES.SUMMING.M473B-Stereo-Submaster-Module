@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/eb917ad50614026c-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 12.3, 335.5, 422.7],
+ "outlines": {
+  "line": {"rings": 29, "straight": {"n": 1159, "mm": 2608.4}, "curved": {"n": 111, "mm": 179.1}},
+  "text": {"rings": 174, "straight": {"n": 1890, "mm": 2547.7}, "curved": {"n": 417, "mm": 702.1}},
+  "tb": {"rings": 15, "straight": {"n": 160, "mm": 317.9}, "curved": {"n": 22, "mm": 31.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [119.4, 408.3, 285.9, 417.9], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [49.7, 399.8, 128.7, 414.0], "text": "WBS 841"},
+   {"mm": [129.8, 402.9, 282.8, 410.5], "text": "PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4"},
+   {"mm": [119.0, 398.1, 171.9, 403.4], "text": "Telex: 065-25399"},
+   {"mm": [207.5, 397.5, 283.0, 402.7], "text": "TELEPHIONE: 416/438-6350"},
+   {"mm": [144.7, 214.8, 196.9, 229.9], "text": "M473B"},
+   {"mm": [125.7, 196.5, 212.0, 205.1], "text": "STEREO SUBMASTER"},
+   {"mm": [215.7, 52.9, 271.2, 61.1], "text": "MANUA_ISSUE #L"},
+   {"mm": [216.3, 39.3, 258.4, 47.5], "text": "OCTOBER 1984"}
+  ]
+ },
+ "title_block": {
+  "mm": [42.9, 44.3, 278.0, 426.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEMS LTD_",
+   "WBS 841",
+   "PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4",
+   "Telex: 065-25399",
+   "TELEPHIONE: 416/438-6350",
+   "M473B",
+   "STEREO SUBMASTER",
+   "MANUA_ISSUE #L"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 12–423 mm up",
+  "- **Outlines:** line 29 rings, 1,159 straight (2,608 mm) / 111 curved (179 mm); text 174 rings, 1,890 straight (2,548 mm) / 417 curved (702 mm); tb 15 rings, 160 straight (318 mm) / 22 curved (31.4 mm)",
+  "- **Words (OCR):** 14 in 9 lines: WAAD-BECK SYSTEMS LTD_ · WBS 841 · PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4 · Telex: 065-25399 · TELEPHIONE: 416/438-6350 · M473B · STEREO SUBMASTER · MANUA_ISSUE #L · OCTOBER 1984",
+  "- **Title block:** (43, 44)–(278, 427) mm: WAAD-BECK SYSTEMS LTD_ · WBS 841 · PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4 · Telex: 065-25399 · TELEPHIONE: 416/438-6350 · M473B · STEREO SUBMASTER · MANUA_ISSUE #L"
+ ]
+}

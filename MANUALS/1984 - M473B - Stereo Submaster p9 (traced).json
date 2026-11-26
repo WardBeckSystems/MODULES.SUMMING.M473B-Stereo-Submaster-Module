@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/eb917ad50614026c-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 194, "straight": {"n": 4018, "mm": 6273.3}, "curved": {"n": 652, "mm": 974.7}},
+  "text": {"rings": 236, "straight": {"n": 2779, "mm": 3474.4}, "curved": {"n": 632, "mm": 1079.5}}
+ },
+ "circles": [{"c": [260.0, 359.2], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [163.4, 388.0, 181.4, 394.9], "text": "Sw 1"},
+   {"mm": [159.1, 378.7, 204.7, 386.9], "text": "SUB ON R1"},
+   {"mm": [191.5, 366.6, 207.7, 373.6], "text": "620"},
+   {"mm": [3.9, 343.1, 59.8, 351.2], "text": "LEFT INPUT"},
+   {"mm": [3.2, 333.8, 57.0, 343.4], "text": "0 dBm ,600n"},
+   {"mm": [294.1, 321.3, 304.4, 327.7], "text": "To"},
+   {"mm": [283.5, 313.1, 311.5, 320.0], "text": "FADER"},
+   {"mm": [286.9, 304.9, 311.3, 311.8], "text": "OdBm"},
+   {"mm": [193.0, 287.6, 208.6, 294.1], "text": "620"},
+   {"mm": [4.3, 263.8, 30.7, 271.3], "text": "Right"},
+   {"mm": [34.5, 264.5, 61.5, 271.4], "text": "INPUT"},
+   {"mm": [3.9, 255.2, 56.8, 264.1], "text": "OdBm;6oOf"},
+   {"mm": [4.3, 204.7, 38.2, 212.1], "text": "SUB ON"},
+   {"mm": [41.2, 204.2, 68.4, 212.6], "text": "TALLY"},
+   {"mm": [267.5, 205.5, 284.8, 212.5], "text": "SUB"},
+   {"mm": [286.5, 206.2, 298.8, 212.7], "text": "ON"},
+   {"mm": [268.1, 196.5, 292.5, 204.6], "text": "TALLY"},
+   {"mm": [3.5, 184.6, 80.7, 192.3], "text": "CONTROL COMMON"},
+   {"mm": [175.3, 173.2, 189.8, 179.6], "text": "DS1"},
+   {"mm": [5.0, 161.9, 31.3, 170.1], "text": "+24v"},
+   {"mm": [133.2, 137.1, 167.3, 144.2], "text": "To SolO"},
+   {"mm": [132.8, 129.5, 186.8, 136.5], "text": "PUSHBUTTON"},
+   {"mm": [5.0, 104.1, 77.3, 112.2], "text": "CHASsIS GROUND"},
+   {"mm": [6.0, 64.8, 78.8, 72.9], "text": "SIGNAL GROUND"},
+   {"mm": [277.2, 60.2, 312.0, 71.0], "text": "NQTES:"},
+   {"mm": [83.1, 56.6, 92.2, 63.5], "text": "21"},
+   {"mm": [287.6, 50.7, 303.1, 57.7], "text": "ALL"},
+   {"mm": [307.7, 50.1, 332.7, 58.2], "text": "RESIS"},
+   {"mm": [278.3, 38.4, 308.5, 45.4], "text": "2LAST"},
+   {"mm": [312.4, 38.9, 335.5, 45.8], "text": "COMP"},
+   {"mm": [285.6, 27.6, 333.3, 39.1], "text": "CRZ) DS1 ,"},
+   {"mm": [278.3, 17.7, 328.6, 26.0], "text": "3.USE PCB"}
+  ]
+ },
+ "dots": [
+  {"c": [164.5, 345.4], "r": 1.5, "lines": 0},
+  {"c": [180.3, 296.2], "r": 1.5, "lines": 0},
+  {"c": [180.5, 286.4], "r": 1.5, "lines": 0},
+  {"c": [164.5, 286.3], "r": 1.5, "lines": 0},
+  {"c": [164.4, 266.2], "r": 1.4, "lines": 0},
+  {"c": [180.5, 266.2], "r": 1.5, "lines": 0},
+  {"c": [164.7, 206.5], "r": 1.6, "lines": 0},
+  {"c": [164.7, 186.3], "r": 1.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 194 rings, 4,018 straight (6,273 mm) / 652 curved (975 mm); text 236 rings, 2,779 straight (3,474 mm) / 632 curved (1,080 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (260.0, 359.2)",
+  "- **Dots (junctions):** 8",
+  "- **Words (OCR):** 40 in 32 lines: Sw 1 · SUB ON R1 · 620 · LEFT INPUT · 0 dBm ,600n · To · FADER · OdBm · 620 · Right · INPUT · OdBm;6oOf"
+ ]
+}

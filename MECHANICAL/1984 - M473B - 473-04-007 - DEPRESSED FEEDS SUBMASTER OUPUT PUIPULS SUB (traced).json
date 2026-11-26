@@ -1,0 +1,96 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MECHANICAL/1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB.jpg",
+ "version": 1,
+ "trace": "_traces/c55f2ae5a221432d.svg",
+ "sheet": {
+  "number": "473-04-007",
+  "title": "Depressed Feeds Submaster Ouput Puipuls Sub",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, -0.1, 335.6, 431.9],
+ "outlines": {
+  "line": {"rings": 400, "straight": {"n": 8711, "mm": 8181.2}, "curved": {"n": 1584, "mm": 1978.5}},
+  "text": {"rings": 316, "straight": {"n": 2957, "mm": 2485.1}, "curved": {"n": 870, "mm": 1065.6}}
+ },
+ "circles": [
+  {"c": [205.3, 129.3], "r": 14.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [205.1, 129.5], "r": 10.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [205.2, 129.6], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [177.7, 128.4], "r": 7.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 3.1},
+  {"c": [192.6, 90.4], "r": 4.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [103.9, 128.3], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [201.8, 275.7, 211.2, 298.6], "w": 9.3, "h": 22.9, "from": "ring"},
+  {
+   "mm": [22.7, 166.3, 138.6, 182.7],
+   "w": 115.9,
+   "h": 16.4,
+   "from": "ring",
+   "words": ["BALANCED", "switcn", "tnis", "switch", "Witn", "BALANCE", "R3", "R6", "depressed;", "controi", "J0", "enabled"]
+  }
+ ],
+ "text": {
+  "words": 72,
+  "lines": [
+   {"mm": [169.7, 351.7, 181.6, 357.0], "text": "WBS"},
+   {"mm": [203.2, 351.7, 218.3, 357.0], "text": "M47J8"},
+   {"mm": [255.2, 318.7, 328.6, 323.6], "text": "MaSTER ASSIGNMENT snitch"},
+   {"mm": [255.2, 313.3, 333.3, 318.1], "text": "depressed, Ine ouiput signal"},
+   {"mm": [267.3, 308.3, 302.0, 313.6], "text": "ing resistors"},
+   {"mm": [254.8, 303.6, 287.6, 308.8], "text": "sumning bus"},
+   {"mm": [255.2, 309.0, 268.1, 312.8], "text": "summ"},
+   {"mm": [289.1, 304.2, 296.6, 309.0], "text": "M2"},
+   {"mm": [314.4, 308.5, 335.5, 312.8], "text": "the exte"},
+   {"mm": [254.5, 290.2, 328.4, 295.9], "text": "MASTER ASSIGNMENT switch"},
+   {"mm": [255.2, 285.2, 314.6, 290.0], "text": "depressed, the ouipul"},
+   {"mm": [317.6, 284.8, 333.3, 289.6], "text": "signal"},
+   {"mm": [256.9, 280.5, 302.0, 285.7], "text": "umming resiators"},
+   {"mm": [314.4, 280.5, 335.5, 284.8], "text": "the exte"},
+   {"mm": [257.1, 275.3, 296.0, 280.6], "text": "Umming bus Mi"},
+   {"mm": [24.0, 177.3, 69.3, 182.8], "text": "BALANCED switcn"},
+   {"mm": [93.1, 177.3, 103.8, 181.1], "text": "Witn"},
+   {"mm": [107.7, 176.8, 138.0, 181.1], "text": "tnis switch"},
+   {"mm": [24.6, 172.5, 49.4, 176.8], "text": "depressed;"},
+   {"mm": [67.1, 171.9, 110.5, 177.3], "text": "BALANCE controi"},
+   {"mm": [113.1, 171.9, 128.9, 177.3], "text": "R3 J0"},
+   {"mm": [130.8, 171.9, 137.7, 177.1], "text": "R6"},
+   {"mm": [253.5, 173.6, 296.9, 178.9], "text": "BALANCE control"},
+   {"mm": [316.7, 173.6, 325.4, 177.9], "text": "R6 :"},
+   {"mm": [31.5, 167.5, 52.0, 171.9], "text": "enabled"},
+   {"mm": [272.2, 169.7, 282.6, 173.5], "text": "evel"},
+   {"mm": [300.3, 169.7, 325.8, 174.0], "text": "Teft and"},
+   {"mm": [253.7, 164.1, 274.0, 169.4], "text": "signals."},
+   {"mm": [198.2, 150.1, 212.2, 157.0], "text": "BAL"},
+   {"mm": [23.5, 130.8, 138.0, 136.8], "text": "SOL0 switen Sw5: When depressed: Ihe"},
+   {"mm": [254.5, 131.9, 319.3, 137.6], "text": "SUBMASTER ON switch"},
+   {"mm": [326.2, 132.6, 334.9, 137.4], "text": "Swi"},
+   {"mm": [300.1, 127.4, 327.7, 132.7], "text": "SUBMASTER"},
+   {"mm": [24.0, 126.1, 81.4, 130.8], "text": "pest-fade signal is"},
+   {"mm": [86.6, 126.1, 94.8, 130.4], "text": "Ted"},
+   {"mm": [111.4, 126.1, 120.0, 130.4], "text": "the"},
+   {"mm": [124.4, 126.1, 137.3, 131.4], "text": "SOLO"},
+   {"mm": [255.2, 127.2, 298.2, 131.5], "text": "depressede feeds"},
+   {"mm": [24.0, 121.1, 42.3, 125.4], "text": "oulpu:"},
+   {"mm": [254.5, 121.8, 273.5, 126.1], "text": "ouipuls"},
+   {"mm": [193.2, 104.1, 218.1, 112.2], "text": "SUB ON"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 473-04-007, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 400 rings, 8,711 straight (8,181 mm) / 1,584 curved (1,978 mm); text 316 rings, 2,957 straight (2,485 mm) / 870 curved (1,066 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 14.0 @ (205.3, 129.3), r 10.8 @ (205.1, 129.5), r 7.7 @ (205.2, 129.6), r 7.5 @ (177.7, 128.4)",
+  "- **Closed boxes:** 2; named: BALANCED switcn tnis switch Witn BALANCE",
+  "- **Words (OCR):** 72 in 41 lines: WBS · M47J8 · MaSTER ASSIGNMENT snitch · depressed, Ine ouiput signal · ing resistors · sumning bus · summ · M2 · the exte · MASTER ASSIGNMENT switch · depressed, the ouipul · signal"
+ ]
+}

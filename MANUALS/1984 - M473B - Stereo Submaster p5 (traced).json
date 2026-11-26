@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/eb917ad50614026c-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "12"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 335.3, 431.8],
+ "outlines": {
+  "line": {"rings": 632, "straight": {"n": 7554, "mm": 6962.5}, "curved": {"n": 1652, "mm": 1829.9}},
+  "text": {"rings": 129, "straight": {"n": 1425, "mm": 1380.7}, "curved": {"n": 379, "mm": 532.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [289.1, 409.8, 318.9, 416.7], "text": "BALANCE"},
+   {"mm": [291.9, 402.7, 315.0, 409.6], "text": "INSERT"},
+   {"mm": [70.6, 389.7, 95.9, 396.2], "text": "SUB ON"},
+   {"mm": [136.0, 373.5, 145.7, 380.5], "text": "To"},
+   {"mm": [182.2, 375.7, 201.7, 382.1], "text": "FROM"},
+   {"mm": [0.0, 370.3, 22.7, 377.2], "text": "INPUTS"},
+   {"mm": [130.6, 366.6, 152.6, 373.6], "text": "FADER"},
+   {"mm": [182.2, 368.1, 213.5, 375.1], "text": "BOOSTER"},
+   {"mm": [0.0, 361.6, 29.1, 369.3], "text": "dBm; 600"},
+   {"mm": [272.9, 364.4, 299.9, 371.4], "text": "BALANCE"},
+   {"mm": [137.1, 359.5, 151.6, 366.0], "text": "dBm"},
+   {"mm": [182.7, 361.0, 215.5, 367.9], "text": "AMPLIFIER"},
+   {"mm": [185.0, 354.1, 209.4, 360.6], "text": "+8 dBm"},
+   {"mm": [12.3, 327.1, 37.1, 333.6], "text": "SUB ON"},
+   {"mm": [117.0, 325.6, 142.3, 332.5], "text": "SUB ON"},
+   {"mm": [12.3, 320.0, 32.8, 326.9], "text": "TALLY"},
+   {"mm": [118.7, 319.1, 139.7, 325.6], "text": "TALLY"},
+   {"mm": [11.9, 295.8, 42.1, 302.7], "text": "CONTROL"},
+   {"mm": [117.7, 295.8, 160.2, 302.7], "text": "To SOLO P B"},
+   {"mm": [12.1, 288.4, 41.5, 295.9], "text": "CommoN"},
+   {"mm": [117.7, 288.9, 180.3, 295.8], "text": "CONTROL COMMON"},
+   {"mm": [197.3, 217.6, 224.3, 224.6], "text": "MASTER"},
+   {"mm": [197.3, 210.5, 222.2, 217.5], "text": "ASSIGN"},
+   {"mm": [196.9, 203.4, 226.5, 210.3], "text": "COMMON"},
+   {"mm": [278.3, 142.1, 335.5, 150.0], "text": "CONTROL Commoi"},
+   {"mm": [278.3, 133.9, 334.0, 141.9], "text": "FROM SUB ON PB"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–432 mm up",
+  "- **Outlines:** line 632 rings, 7,554 straight (6,962 mm) / 1,652 curved (1,830 mm); text 129 rings, 1,425 straight (1,381 mm) / 379 curved (532 mm)",
+  "- **Words (OCR):** 28 in 26 lines: BALANCE · INSERT · SUB ON · To · FROM · INPUTS · FADER · BOOSTER · dBm; 600 · BALANCE · dBm · AMPLIFIER"
+ ]
+}
