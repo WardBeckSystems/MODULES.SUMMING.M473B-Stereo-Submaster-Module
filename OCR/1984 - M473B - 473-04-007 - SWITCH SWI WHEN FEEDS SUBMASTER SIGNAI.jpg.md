@@ -21,7 +21,7 @@ Wiki page: [M473B](../../../../PAGES/M473B.md)
 - **Words (OCR):** 60 in 42 lines: SSIGNMENT snitch SwL: · When · Ine · ouipul signai · 15 fed via · esistors · the exlernal master · M2 · SSIGNMENT switch · Sw3: · When · Ine
 - **Title block:** (115, 13)–(335, 116) mm: ISSUE DATE · REVISION · APP: · WBS WARD-BECK SysTEMs · M473B · ENG · STEREO SUBMASTER MODULE · CKD · FRONT · PANEL · APP · SCALE · ISSUE · 473-04-007 · 1:1
 
-Every curve, box, word and wire group: [1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI (traced).json](../MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20SWITCH%20SWI%20WHEN%20FEEDS%20SUBMASTER%20SIGNAI%20(traced).json) (the CAD file: `1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI (traced).json](../MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20SWITCH%20SWI%20WHEN%20FEEDS%20SUBMASTER%20SIGNAI%20%28traced%29.json) (the CAD file: `1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI (traced).dxf`).
 
 ## Full text
 

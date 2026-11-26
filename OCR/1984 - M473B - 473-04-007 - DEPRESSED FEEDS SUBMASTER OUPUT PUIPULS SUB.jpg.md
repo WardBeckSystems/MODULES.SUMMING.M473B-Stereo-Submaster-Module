@@ -20,7 +20,7 @@ Wiki page: [M473B](../../../../PAGES/M473B.md)
 - **Closed boxes:** 2; named: BALANCED switcn tnis switch Witn BALANCE
 - **Words (OCR):** 72 in 41 lines: WBS · M47J8 · MaSTER ASSIGNMENT snitch · depressed, Ine ouiput signal · ing resistors · sumning bus · summ · M2 · the exte · MASTER ASSIGNMENT switch · depressed, the ouipul · signal
 
-Every curve, box, word and wire group: [1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB (traced).json](../MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20DEPRESSED%20FEEDS%20SUBMASTER%20OUPUT%20PUIPULS%20SUB%20(traced).json) (the CAD file: `1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB (traced).json](../MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20DEPRESSED%20FEEDS%20SUBMASTER%20OUPUT%20PUIPULS%20SUB%20%28traced%29.json) (the CAD file: `1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB (traced).dxf`).
 
 ## Full text
 

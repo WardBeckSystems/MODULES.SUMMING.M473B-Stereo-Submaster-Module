@@ -26,7 +26,7 @@ Wiki page: [M473B](../../../../PAGES/M473B.md)
 - **Words (OCR):** 14 in 9 lines: WAAD-BECK SYSTEMS LTD_ · WBS 841 · PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4 · Telex: 065-25399 · TELEPHIONE: 416/438-6350 · M473B · STEREO SUBMASTER · MANUA_ISSUE #L · OCTOBER 1984
 - **Title block:** (43, 44)–(278, 427) mm: WAAD-BECK SYSTEMS LTD_ · WBS 841 · PROGRESS AVENUE, SCAABOAOUGH; ONTARIO M1H 2X4 · Telex: 065-25399 · TELEPHIONE: 416/438-6350 · M473B · STEREO SUBMASTER · MANUA_ISSUE #L
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p1 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p1%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p1 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p1%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p1 (trac
 - **Words (OCR):** 114 in 90 lines: WAAD-BECK systems LTD · CONNECTOR · LAyouT · M473B STEREO SUBMASTER · MODULE · LEFT · LEFT · MI output · M1 · output · RIGHT · RIGHT
 - **Title block:** (21, 408)–(131, 432) mm: WAAD-BECK systems LTD
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p2 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p2%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p2 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p2%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p2 (trac
 - **Words (OCR):** 130 in 108 lines: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M473B STEREO SUBMASTER · MODULE · OMA · PART DESCRIPTION · MFG · MFG PART · NUMBER · CRI · Diode · Motorola IN4003
 - **Title block:** (19, 56)–(249, 432) mm: WARD-BECK SYSTEMS LTD_ · PARTS LIST · M473B STEREO SUBMASTER · MODULE · OMA · PART DESCRIPTION · MFG · MFG PART · CRI · Diode · Motorola IN4003 · CR2 · 7361s · 6913 · PCB · Printed circuit Board · WBS
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p3 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p3%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p3 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p3 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p3%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p3 (trac
 - **Words (OCR):** 118 in 91 lines: WAAD-BECK · SYSTEMS LTD_ · OTJ Emeteya · OAAW · PARTS LiST · M473B STEREO · SUBMASTER MODULE · SOCKETS · AND · MISCELLANEOUS_COMPONENTS · ageMUM · USED ON
 - **Title block:** (20, 37)–(130, 432) mm: WAAD-BECK · SYSTEMS LTD_ · SOCKETS · ageMUM · USED ON · DESCRIPTION · R3 To R6 · Black Knob · 28w · Black Cap · Sw1 · Switch · cCo-0i · 2P.B. Cap, · SW2 · SW3 · Barndoor · Black/Yel low · SW4 · Barndo
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p4 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p4%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p4 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p4 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p4%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p4 (trac
 - **Outlines:** line 632 rings, 7,554 straight (6,962 mm) / 1,652 curved (1,830 mm); text 129 rings, 1,425 straight (1,381 mm) / 379 curved (532 mm)
 - **Words (OCR):** 28 in 26 lines: BALANCE · INSERT · SUB ON · To · FROM · INPUTS · FADER · BOOSTER · dBm; 600 · BALANCE · dBm · AMPLIFIER
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p5 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p5%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p5 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p5 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p5%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p5 (traced).dxf`).
 
 ### Page 6
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p5 (trac
 - **Title block:** (113, 11)–(333, 113) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK BYSTEMS · DRN.JR/7/84 · M473B · ENG · STEREO SUBMASTER MODULE · CKD: · FUNCTIONAL · APP · SCALE · ISSUE · 473-01-003
 - **Wiring (first pass):** 69 connected wire groups from 304 runs; labelled ends: 487 mm → SOLO; 60 mm → M2 ON; 34 mm → SUB, OUTPUT, +8 dBm, 600.; 27 mm → SOLO, OUTPUT; 24 mm → M2 ON
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p6 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p6%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p6 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p6 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p6%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p6 (traced).dxf`).
 
 ### Page 7
 
@@ -92,7 +92,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p6 (trac
 - **Closed boxes:** 2; named: BAL ANCED Inis switch swicn With BALANCE
 - **Words (OCR):** 70 in 46 lines: WBS · M4738 · ASSIGNMENT switch · depressede tne oulpul Signal · Summing resistors · M2 · tne · exte · summing 0us · MASTER ASSIGNMENT switch · depressed; The outpul · signal
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p7 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p7%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p7 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p7 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p7%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p7 (traced).dxf`).
 
 ### Page 8
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p7 (trac
 - **Words (OCR):** 59 in 40 lines: SSIGNMENT snitch · When · Ine · ouiput signal · fed Via · esistors · tne exlerna masier · SSIGNMENT switch · Sw3: · when · the · oupul signal
 - **Title block:** (115, 13)–(335, 115) mm: ISSUE |DATE · REVISION · App · WBS WARD-BECK SYSTEMS · M473B · TZ · ENG. · STEREO SUBMASTER MODULE · CKD · FRONT PANEL · APP · SCALE · ISSUE · 473-04-007 · 1:1
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p8 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p8%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p8 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p8 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p8%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p8 (traced).dxf`).
 
 ### Page 9
 
@@ -115,7 +115,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p8 (trac
 - **Dots (junctions):** 8
 - **Words (OCR):** 40 in 32 lines: Sw 1 · SUB ON R1 · 620 · LEFT INPUT · 0 dBm ,600n · To · FADER · OdBm · 620 · Right · INPUT · OdBm;6oOf
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p9 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p9%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p9 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p9 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p9%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p9 (traced).dxf`).
 
 ### Page 10
 
@@ -125,7 +125,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p9 (trac
 - **Dots (junctions):** 6
 - **Words (OCR):** 50 in 45 lines: BALANCE · R7 · Sw2 · 390 · R3 · IK · 12 · R4 · R3 · 390 · To · FROM
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p10 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p10%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p10 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p10 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p10%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p10 (tra
 - **Dots (junctions):** 19
 - **Words (OCR):** 41 in 40 lines: Ri3 · Sw2 · Sw 3 · Mi ON · Ri7 · 3k · Rib · BALANCE · INSERT · 39K · Rig · 39k
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p11 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p11%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p11 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p11 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p11%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p11 (traced).dxf`).
 
 ### Page 12
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p11 (tra
 - **Title block:** (123, 9)–(336, 112) mm: vofe4 PINS · I8AND Z CHANGED · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · M473B · ENG · STEREO SUBMASTER MODULE · CKD · SCHEMATIC · APP · SCALE · ISSUE · 473-02-003
 - **Wiring (first pass):** 10 connected wire groups from 77 runs; labelled ends: 143 mm → I8AND Z CHANGED, vofe4, ISSUE |DATE; 66 mm → Solo; 47 mm → Sub, 35, +8dBm, 60o; 6 mm → M2; 5 mm → MI
 
-Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p12 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p12%20(traced).json) (the CAD file: `1984 - M473B - Stereo Submaster p12 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - Stereo Submaster p12 (traced).json](../MANUALS/1984%20-%20M473B%20-%20Stereo%20Submaster%20p12%20%28traced%29.json) (the CAD file: `1984 - M473B - Stereo Submaster p12 (traced).dxf`).
 
 ## Full text
 

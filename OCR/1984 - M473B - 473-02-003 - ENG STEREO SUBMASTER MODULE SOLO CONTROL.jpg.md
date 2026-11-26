@@ -23,7 +23,7 @@ Wiki page: [M473B](../../../../PAGES/M473B.md)
 - **Title block:** (122, 9)–(336, 112) mm: Io/e4 PINS · {EANDZ CHANGED · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: J/67/34 · M473B · ENG · STEREO SUBMASTER MODULE · CKD · SCHEMATIC · APP · SCALE · ISSUE · LB · 473-02-003
 - **Wiring (first pass):** 10 connected wire groups from 107 runs; labelled ends: 48 mm → SUB, 35; 33 mm → SolO; 30 mm → SolO, SoLO; 6 mm → me; 6 mm → SoLO
 
-Every curve, box, word and wire group: [1984 - M473B - 473-02-003 - ENG STEREO SUBMASTER MODULE SOLO CONTROL (traced).json](../SCHEMATICS/1984%20-%20M473B%20-%20473-02-003%20-%20ENG%20STEREO%20SUBMASTER%20MODULE%20SOLO%20CONTROL%20(traced).json) (the CAD file: `1984 - M473B - 473-02-003 - ENG STEREO SUBMASTER MODULE SOLO CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - 473-02-003 - ENG STEREO SUBMASTER MODULE SOLO CONTROL (traced).json](../SCHEMATICS/1984%20-%20M473B%20-%20473-02-003%20-%20ENG%20STEREO%20SUBMASTER%20MODULE%20SOLO%20CONTROL%20%28traced%29.json) (the CAD file: `1984 - M473B - 473-02-003 - ENG STEREO SUBMASTER MODULE SOLO CONTROL (traced).dxf`).
 
 ## Full text
 

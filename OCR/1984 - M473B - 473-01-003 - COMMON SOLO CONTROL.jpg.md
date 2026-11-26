@@ -23,7 +23,7 @@ Wiki page: [M473B](../../../../PAGES/M473B.md)
 - **Title block:** (113, 11)–(333, 113) mm: ISSUE (DATE · REVISION · APp · WBS WAAD-BECK SYSTEMS · DRN.J1k7/84 · M473B · ENG. · STEREO SUBMASTER MODULE · CKD: · FUNCTIONAL · APP · SCALE · ISSUE · 473-01-003
 - **Wiring (first pass):** 69 connected wire groups from 309 runs; labelled ends: 97 mm → SOLO; 88 mm → M1 ON; 60 mm → M2 ON; 32 mm → SUB, OUTPUT, +8 dBm, 600.; 27 mm → M2 OUTPUT
 
-Every curve, box, word and wire group: [1984 - M473B - 473-01-003 - COMMON SOLO CONTROL (traced).json](../SCHEMATICS/1984%20-%20M473B%20-%20473-01-003%20-%20COMMON%20SOLO%20CONTROL%20(traced).json) (the CAD file: `1984 - M473B - 473-01-003 - COMMON SOLO CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473B - 473-01-003 - COMMON SOLO CONTROL (traced).json](../SCHEMATICS/1984%20-%20M473B%20-%20473-01-003%20-%20COMMON%20SOLO%20CONTROL%20%28traced%29.json) (the CAD file: `1984 - M473B - 473-01-003 - COMMON SOLO CONTROL (traced).dxf`).
 
 ## Full text
 
