@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1362 1147" font-family="Overpass Mono, Consolas, ui-monospace, monospace">
+<title>M473B Stereo Submaster Module: back panel, rear view of the connectors</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="292.6" y="53.8" font-size="22.0" dominant-baseline="middle" text-anchor="middle" fill="#1F1E1C" font-weight="700">P2 · rear view</text>
+<rect x="222.6" y="103.8" width="140.0" height="930.8" fill="#E9E4D4" stroke="#6D6A63" stroke-width="3.00"/>
+<rect x="232.6" y="812.5" width="54.0" height="28.0" fill="#555555" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="826.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">18</text>
+<text x="220.6" y="826.5" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#555555">JMP.20.18</text>
+<rect x="298.6" y="812.5" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="826.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">V</text>
+<rect x="232.6" y="852.2" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="866.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">19</text>
+<text x="220.6" y="866.1" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">VEE-AUDIO-25V</text>
+<rect x="298.6" y="852.2" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="866.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">W</text>
+<rect x="232.6" y="891.8" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="905.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">20</text>
+<text x="220.6" y="905.8" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">COMMON</text>
+<rect x="298.6" y="891.8" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="905.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">X</text>
+<rect x="232.6" y="931.3" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="945.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">21</text>
+<text x="220.6" y="945.3" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">VCC-AUDIO+25V</text>
+<rect x="298.6" y="931.3" width="54.0" height="28.0" fill="#555555" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="945.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">Y</text>
+<text x="364.6" y="945.3" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#555555">JMP.Y.21</text>
+<rect x="232.6" y="971.0" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="985.0" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">22</text>
+<text x="220.6" y="985.0" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">CHASSIS</text>
+<rect x="298.6" y="971.0" width="54.0" height="28.0" fill="#555555" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="985.0" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">Z</text>
+<text x="364.6" y="985.0" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#555555">JMP.Z.Y</text>
+<rect x="40.0" y="1082.5" width="24.0" height="24.0" fill="#2E6B34" stroke="none" stroke-width="0.00"/>
+<text x="74.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">input</text>
+<rect x="280.0" y="1082.5" width="24.0" height="24.0" fill="#1F5F8B" stroke="none" stroke-width="0.00"/>
+<text x="314.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">output</text>
+<rect x="520.0" y="1082.5" width="24.0" height="24.0" fill="#A52A22" stroke="none" stroke-width="0.00"/>
+<text x="554.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">power</text>
+<rect x="760.0" y="1082.5" width="24.0" height="24.0" fill="#333333" stroke="none" stroke-width="0.00"/>
+<text x="794.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">ground / shield</text>
+<rect x="1000.0" y="1082.5" width="24.0" height="24.0" fill="#7A4E2A" stroke="none" stroke-width="0.00"/>
+<text x="1034.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">control</text>
+<rect x="1240.0" y="1082.5" width="24.0" height="24.0" fill="#555555" stroke="none" stroke-width="0.00"/>
+<text x="1274.0" y="1094.5" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">other</text>
+</svg>
