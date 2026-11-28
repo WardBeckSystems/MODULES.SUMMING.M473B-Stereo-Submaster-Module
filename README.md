@@ -27,6 +27,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaGd0d2VRRG0zb1U/view?resourcekey=0-5BmIOWP2GadGcQz2CU3xPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaGd0d2VRRG0zb1U&resourcekey=0-5BmIOWP2GadGcQz2CU3xPQ" width="240" alt="1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB.jpg"></a><br><sub>1984|17 · 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB · <a href="MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20DEPRESSED%20FEEDS%20SUBMASTER%20OUPUT%20PUIPULS%20SUB%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZWdFRHRvdFQyeFk/view?resourcekey=0-lsyyU60GPfSz-6tYZYFfxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZWdFRHRvdFQyeFk&resourcekey=0-lsyyU60GPfSz-6tYZYFfxQ" width="240" alt="1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI.jpg"></a><br><sub>1984|17 · 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI · <a href="MECHANICAL/1984%20-%20M473B%20-%20473-04-007%20-%20SWITCH%20SWI%20WHEN%20FEEDS%20SUBMASTER%20SIGNAI%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M473B.stl`](MECHANICAL/M473B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M473B)
+
+- **Size:** 73.84 × 289.31 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 4 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M473B - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M473B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
