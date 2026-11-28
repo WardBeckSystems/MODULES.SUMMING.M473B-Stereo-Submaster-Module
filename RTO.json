@@ -7,96 +7,6 @@
  "verified": null,
  "derived": false,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "12",
-   "signal": "LEFT",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
-   "page": 2
-  },
-  {
-   "pin": "18",
-   "signal": "CONTROL COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
-   "page": 2
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "SIGNAL GROUND",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
-   "page": 2
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "CHASSIS GROUND",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf",
-   "page": 2
-  },
-  {
-   "pin": "22",
-   "signal": "CHASSIS",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M473B/M473B.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [
   {
    "function": "24V Jumper",
@@ -146,5 +56,66 @@
  "sources": [
   "Engineering/RTO-144/M473B/M473B.rto144.json",
   "Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster.pdf"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "P2",
+   "pin": "18",
+   "signal": "JMP.20.18",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "VEE-AUDIO -25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "VCC-AUDIO +25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "shield",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "signal": "JMP.Y.21",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "signal": "JMP.Z.Y",
+   "kind": "strap",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M473B/M473B.rto144.json"
+ }
 }
