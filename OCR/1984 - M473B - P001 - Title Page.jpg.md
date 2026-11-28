@@ -1,5 +1,5 @@
 # 1984 - M473B - P001 - Title Page.jpg
-Wiki page: [M473B](../../../../PAGES/M473B.md)
+Wiki page: [M473B](../)
 
 
 - **Year:** 1984 (found in this file: "MANUAL ISSUE #L OCTOBER 1984")

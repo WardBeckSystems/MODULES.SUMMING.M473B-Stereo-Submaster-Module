@@ -1,6 +1,6 @@
 # M473B Stereo Submaster Module · Summing
 
-Ward-Beck Systems M473B, 1984|17. Wiki page: [M473B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M473B.html)
+Ward-Beck Systems M473B, 1984|17. Wiki page: [M473B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M473B-Stereo-Submaster-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

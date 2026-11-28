@@ -1,5 +1,5 @@
 # 1984 - M473B - 473-01-003 - BALANCE INSERT FROM BOOSTER BALANCE AMPLIFIER.jpg
-Wiki page: [M473B](../../../../PAGES/M473B.md)
+Wiki page: [M473B](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

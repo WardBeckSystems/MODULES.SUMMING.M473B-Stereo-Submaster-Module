@@ -1,5 +1,5 @@
 # 1984 - M473B - 473-02-003 - ENG STEREO SUBMASTER MODULE SOLO CONTROL.jpg
-Wiki page: [M473B](../../../../PAGES/M473B.md)
+Wiki page: [M473B](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

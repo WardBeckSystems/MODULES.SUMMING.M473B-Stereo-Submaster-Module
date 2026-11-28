@@ -1,5 +1,5 @@
 # 1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI.jpg
-Wiki page: [M473B](../../../../PAGES/M473B.md)
+Wiki page: [M473B](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))
